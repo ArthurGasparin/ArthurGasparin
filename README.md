@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGasparin&count_private=true&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGasparin)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGasparin)](https://github.com/anuraghazra/github-readme-stats)
+
