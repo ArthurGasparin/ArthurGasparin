@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurGasparin&theme=dracula)](https://git.io/streak-stats)
 
-Bernardo Benini Fantin, Agora
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGasparin&layout=compact)
 
